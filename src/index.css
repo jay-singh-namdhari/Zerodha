@@ -10,4 +10,34 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+} 
+.nav-link{
+  margin-left: 40px;
+}
+.create-ticket{
+  a{
+
+    text-decoration: none;
+    
+  }
+  margin-top: 5rem; 
+  line-height: 2.5;
+
+}
+.create-ticket-hero{
+  a{
+    color: white;
+  }
+  background-color: hwb(203 16% 22%);
+  
+  
+}
+.Universe-icons{
+  height: 4rem;
+}
+.create-ticket-hero-hero-input{
+  width: 70%;
+  height: 3.5rem;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
 }
